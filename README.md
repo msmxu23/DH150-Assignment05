@@ -104,18 +104,20 @@ After Sean goes back home, he showers and hops on his bed. He knew the perfect a
 - To find the right support group for herself 
 - To listen to music that relates to her 
 
-## Scenario 1: Using the Forum 
-Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems and she enjoys being that person people can feel comfortable talking to and sharing these personal thoughts with. But when she gets overwhelmed by work, music usually makes her feel better. She wished that music could do for others what it does for her. During her lunch break, she usually puts on her airpods to listen to music. The same way people talk to her about her feelings, she clicks, "Post" a song about how she's feeling. A few of her friends like it. Some strangers commented below too, saying "Love this song!" Jennie taps on these people's profile names to see what music they like, post and repost. She feels good that she is able to relate to others. 
+## Scenario 1: Using the Mood Board 
+Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems, and sometimes this can be overwhelming because she doesn't really have anyone to go to. Music is something that helps her relax so she listens to music during her breaks and whenever she can. She enjoys being that person people can feel comfortable talking to and sharing personal thoughts with but she wish she could also connect with someone and lean on that person as well.
+
+She wishes that she could connect with people through music since that's her way of feeling better after a long day. Her friend recommends this new app that allows you to listen to different types of music through the type of mood you're looking for. She downloads the app and creates an account. She then proceeds to the Mood icon on the left bottom corner. She taps "Uplifting" and is sent to a page where other people have posted their personal playlists for this certain genre. 
 
 ## Jennie's Journey 
 #### Challenges to reaching their goal
-Didn't know how to reach to others through music. 
+- Didn't feel comfortable being a dependent person
 #### Frustrations
-She's good at listening to other people talk but don't really feel comfortable expressing her emotions. Music is the way. 
+- She's good at listening to other people talk but doesn't feel as comfortable expressing her emotions 
 #### Solution
-The app allows her to post songs that fit her mood for the day. Other music listeners can hear her thoughts through these songs. 
+- The app allows her to find people who Other music listeners can hear her thoughts through these songs 
 #### Taking Action
-Jennie found an outlet to share her feelings without saying anything. 
+- Jennie found an outlet to share her feelings without saying anything 
 
 ## Persona 1: Anna Nguyen 
 ![84FBF063-138B-484E-85DE-EDC38FCDADB0](https://user-images.githubusercontent.com/62866389/81208253-9dd9b600-8f83-11ea-83f4-529fa8d6f087.jpg)
@@ -158,13 +160,13 @@ Jennie found an outlet to share her feelings without saying anything.
 
 ## Anna's Journey 
 #### Challenges to reaching their goal
-Anna wasted too much time trying to keep up with all the artists, releases, and events. 
+- Anna wastes too much time trying to keep up with all the artists, releases, and events. 
 #### Frustrations
-Anna doesn't have the time to go to every page to look up. She's upset when she misses out on something. 
+- Anna doesn't have the time to go to every page to look up. She's upset when she misses out on something. 
 #### Solution
-The app notifies her of anything revolving around the artists she follows. 
+- The app notifies her of anything revolving around the artists she follows. 
 #### Taking Action
-Anna can easily find out the next hot events to attend in one app. 
+- Anna can easily find out the next hot events to attend in one app. 
 
 
 
