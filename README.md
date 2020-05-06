@@ -3,8 +3,8 @@
 The purpose of UX Storytelling is so that we can understand how different users operate, so as UI/UX designers and researchers, we can create and build interfaces, systems, and products that cater to target users' feelings and expectations. UX Storytelling helps those who are in the UI/UX field to make people's lives easier, more efficient, and effective. UX Storytelling helps us brainstorm, plan, and come up with better ideas as we begin to understand our users more accurately on a personal level. From extensive research, we are able to predict target users' responses more accurately by generating design ideas and building prototypes to test these ideas.
  
 ## Features 
-- Chat box: allows you to talk to people that you added on the app, shows you who is online, your old conversations, and allows you to create new ones 
-- Forum: allows you to create topics, comment on each other's replies, like comments, repost, or post opinions related to music 
+- Forum/Chat box: allows you to create topics, comment on each other's posts, like comments, repost, or share opinions related to music
+- Mood Board: gives you the option to choose a certain atmosphere, whether you're feeling upbeat, soultry, in the mood for study music 
 - The Latest: shows the latest news from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
 
 ## Personas 
@@ -47,9 +47,9 @@ The purpose of UX Storytelling is so that we can understand how different users 
 - To have people to talk to and relate to 
 
 ## Scenario 1: Using the chat box 
-Sean is working for the third time in a row this week while his friends are going to a music concert tonight. He really wanted to go but he was scheduled to work night shift. Knowing that his friends would have the time of their lives while he would be working late again made him feel left out. 
-Live shows are something that Sean really enjoys going to so he feels more alone and frustrated than usual. He feels like his social life is non-existent because most of the time when his friends ask him to hang out, he can’t because of his commitment to work or his internship. He wishes he could befriend people like him who share the same struggles but also share the same taste for music.
-After Sean goes back home, he showers and hops on his bed. He knew the perfect app to go on to talk to others about this. He opens the app and taps on the "Home button" and posts "Anyone else miss out on the concert tonight?" People commented below in a few minutes. A girl commented “I couldn't! Had to work tonight. Such a bummer." Curious, he taps on her name, which leads to her profile. He looks at her posts and replies and the artists that she follows. She seemed cool and liked similar artists. He taps the "Add" button under her bio. She accepts his request a few minutes later and he taps the chat box at the bottom. “Hey! Seems like we're on the same boat. Want to have a little pity party for ourselves?” She responded "I totally get it. It's nice to know I'm not the only one." 
+Sean is working for the third time in a row this week while his friends are going to a music concert tonight. He really wanted to go but he was scheduled to work night shift. Knowing that his friends would have the time of their lives while he would be working late again made him feel left out. Live shows are something that Sean really enjoys going to so he feels more alone and frustrated than usual. He feels as if his social life is non-existent because of his commitment to work or his internship. He wishes he could befriend people like him who share the same struggles but also share the same taste for music.
+
+After Sean goes back home, he showers and hops on his bed. He knew the perfect app to go on to talk to others about this. He opens up the app and taps on the "Home" button and posts, "Anyone else miss out on the concert tonight?" A few people commented below. A girl commented “I couldn't! Had to work tonight. Such a bummer." Sean tapped on her name, which led to him to her profile. She seemed cool and followed similar artists that he likes. He taps the "Add" button under her bio. She accepts his request and he taps the chat box at the left bottom. He writes, “Hey! Seems like we're on the same boat. Want to have a little pity party for ourselves?” She responded "Totally. It's nice to know I'm not the only one." 
 
 ## Sean's Journey 
 #### Challenges to reaching their goal
@@ -72,35 +72,37 @@ After Sean goes back home, he showers and hops on his bed. He knew the perfect a
 - Age: 24
 - Location: Los Angeles, California
 - Education: Bachelor's Degree in Psychology 
-- Occupation: Assistant Therapist 
-- Personality: Considerate, Calm, Collected
+- Occupation: Therapist Assistant 
+- Personality: Considerate, Calm, Curious 
 ### Motivations and Needs
 - Enjoys listening to music that fits her mood 
-- Wants to make playlists and discover new music 
+- Wants to make different playlists suitable for different times 
+- To make friends who have the same music taste and want to share thoughts with her 
 ### Pain Points and Challenges
-- Hard to find new music that she likes 
-- Feels judged by her music 
+- Feels shy and uncomfortable when it comes to reaching out to others 
+- Can overshare her feelings  
 
 ## Empathy Map
 #### Says:
 - "How are you feeling today?" 
-- "This song makes me feel some type of way." 
-- "I want them to release their new songs already." 
+- "This song makes me feel some way." 
+- "I understand. I know where you're coming from." 
 #### Thinks:
-- Maybe I need to take a break and listen to some music. 
-- I want someone who understands me and my music taste. 
-- Music can be a way to bond with someone. 
+- It's so hard to capture what I'm feeling inside. 
+- I want to make friends with people who feel the same things as me. 
+- I want to bond with people through music. 
 #### Does:
-- Goes on Youtube to see what's new 
-- Checks out songs that her friends on Instagram post about 
-- Always has airpods in her ears 
+- Tweets her feelings and opinions
+- Lays in bed and drowns out everything with music
+- Texts her friends "How are you" 
 #### Feels:
-- Confident 
-- Vibrant 
 - Grateful 
+- Suffocated 
+- Overwhelmed
+
 #### Goals:
-- To share beautiful music with her friends 
-- To show off her music taste 
+- To find the right support group for herself 
+- To listen to music that relates to her 
 
 ## Scenario 1: Using the Forum 
 Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems and she enjoys being that person people can feel comfortable talking to and sharing these personal thoughts with. But when she gets overwhelmed by work, music usually makes her feel better. She wished that music could do for others what it does for her. During her lunch break, she usually puts on her airpods to listen to music. The same way people talk to her about her feelings, she clicks, "Post" a song about how she's feeling. A few of her friends like it. Some strangers commented below too, saying "Love this song!" Jennie taps on these people's profile names to see what music they like, post and repost. She feels good that she is able to relate to others. 
