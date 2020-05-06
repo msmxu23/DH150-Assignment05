@@ -1,7 +1,7 @@
 # Personas and Scenarios 
 
 ## Persona 1: Sean Kim 
-![2A3912A7-175A-4D56-9C2D-6490EEECCEC6](https://user-images.githubusercontent.com/62866389/81169965-9fd55200-8f4e-11ea-866a-d14d68c6e08a.jpg)
+![F920DB1B-1431-4A94-881E-DF9718DB25CA_1_201_a](https://user-images.githubusercontent.com/62866389/81170240-2e49d380-8f4f-11ea-8b3b-841bfd8f4ae9.jpeg)
 
 ### Demographic
 - Age: 21
