@@ -1,11 +1,11 @@
 # Personas and Scenarios 
 ## Introduction 
- The purpose of UX Storytelling is so that we can understand how different users operate, especially our target users, so as UI/UX designers and researchers, we can build and create interfaces, systems, and products that cater to their feelings and expectations. It's important in helping our process to do our best to make people's lives easier, more efficient, and effective. UX Storytelling helps us brainstorm, plan, and come up with better ideas as we begin to understand our users more clearly and on a personal level. We are able to predict user's responses more accurately. 
+The purpose of UX Storytelling is so that we can understand how different users operate, so as UI/UX designers and researchers, we can create and build interfaces, systems, and products that cater to target users' feelings and expectations. UX Storytelling helps those who are in the UI/UX field to make people's lives easier, more efficient, and effective. UX Storytelling helps us brainstorm, plan, and come up with better ideas as we begin to understand our users more accurately on a personal level. From extensive research, we are able to predict target users' responses more accurately by generating design ideas and building prototypes to test these ideas.
  
 ## Features 
-- Chat box: allows you to talk to people that you added on the app, shows you who is online, and shows your old conversations, or allows you to create new ones 
-- The Latest: shows the latest news from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
+- Chat box: allows you to talk to people that you added on the app, shows you who is online, your old conversations, and allows you to create new ones 
 - Forum: allows you to create topics, comment on each other's replies, like comments, repost, or post opinions related to music 
+- The Latest: shows the latest news from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
 
 ## Personas 
 ## Persona 1: Sean Kim 
@@ -15,49 +15,56 @@
 - Location: San Francisco, California
 - Education: 4th Year Business Marketing Major 
 - Occupation: Server at a restaurant, Business Development intern at a startup 
-- Personality: Ambitious, Busy, Friendly  
+- Personality: Ambitious, Friendly, Busy
 ### Motivations and Needs
-- Find more music to inspire him to continue to work hard 
-- Keep up to date with new music and releases 
-- Want to meet more people who enjoy the same music and create relationships 
+- To feel more in the loop with the music world 
+- To meet more people who enjoy the same music
+- To create and maintain friendships 
 ### Pain Points and Challenges
-- Too busy for a social life
-- Feels disconnected from friends
-- Hard to maintain friendships
+- Works a lot and seems too busy for a social life
+- Feels disconnected from friends and don't know how to keep updated with them 
 
 ## Empathy Map
 #### Says:
-- "Music keeps me going.”
-- "I want to keep in touch with my creative side.” 
-- "Have you checked out that new album yet?” 
+- "I can't. I have work." 
+- "I'm down! I don't have work that day." 
+- "I have a lot on my plate right now." 
 #### Thinks:
-- I’m always working. 
-- Music keeps me sane. 
-- I really want to share these songs with someone. 
+- What am I doing with my life? 
+- I wish I had someone to lean on when it gets hard. 
+- Can't wait to hear that new album. 
 #### Does:
-- Goes on spotify
+- Goes on Spotify and makes playlists 
 - Follows artists that he likes on Instagram and Twitter 
-- Subscribe to hear about more festivals and music concerts 
+- Watch live sets/performances on Youtube
 #### Feels:
-- Lonely 
+- Alone  
 - Overwhelmed 
 - Hopeful 
 #### Goals:
 - To make friends with people who have similar music taste
-- To have a social life surrounding music
+- To have a more maintainable social life 
+- To have people to talk to and relate to 
 
 ## Scenario 1: Using the chat box 
-Sean is working for the third day in a row this week while his friends are going to a music concert tonight that he really wanted to go to. Since he was scheduled to work today, he couldn’t go. Today is one of those days where everything just seems more difficult and tiring.Knowing that his friends would have the time of their lives, while he would be working again made him feel left out. Music concerts are something that Sean really loves to go to and feels like he’s missing out, making him feel more lonely and frustrated. He feels like his social life is non-existent because most of the time when his friends ask him to hang out, he can’t because of work or internship. Since he can’t enjoy the concert tonight with his friends, he wanted to talk to other people who couldn’t make it to the concert to talk to. After Sean goes back home, he showers and hops on his bed. He opens the app where he would be able to talk to other people about music. He opens the app and goes to the Activity page that is represented by an icon on the bottom right. He saw his friends comment how excited they were to go to the concert on a post of the artist performing tonight. He goes to the artist page and looks at the Comments. Someone commented “Bummer! I can’t make it. Anyone else want to have a pity party with me?”  Curious, he clicks on her profile and decides to click “Add.” She accepts his request a few minutes later and taps “Message” bar under her profile picture. “Hey! I couldn’t make it to the show tonight either. Want to have a little pity party for ourselves?” She responded to this and they began to talk about their love for the artist performing tonight. Turns out she had a work shift tonight as well. 
+Sean is working for the third time in a row this week while his friends are going to a music concert tonight. He really wanted to go but he was scheduled to work night shift. Knowing that his friends would have the time of their lives while he would be working late again made him feel left out. 
+Live shows are something that Sean really enjoys going to so he feels more alone and frustrated than usual. He feels like his social life is non-existent because most of the time when his friends ask him to hang out, he can’t because of his commitment to work or his internship. He wishes he could befriend people like him who share the same struggles but also share the same taste for music.
+After Sean goes back home, he showers and hops on his bed. He knew the perfect app to go on to talk to others about this. He opens the app and taps on the "Home button" and posts "Anyone else miss out on the concert tonight?" People commented below in a few minutes. A girl commented “I couldn't! Had to work tonight. Such a bummer." Curious, he taps on her name, which leads to her profile. He looks at her posts and replies and the artists that she follows. She seemed cool and liked similar artists. He taps the "Add" button under her bio. She accepts his request a few minutes later and he taps the chat box at the bottom. “Hey! Seems like we're on the same boat. Want to have a little pity party for ourselves?” She responded "I totally get it. It's nice to know I'm not the only one." 
 
 ## Sean's Journey 
 #### Challenges to reaching their goal
-Sean couldn’t make it to the concert and didn’t know anyone else who liked the artist and couldn’t make it to the concert. 
+- Sean doesn't have much time to be around friends 
+- His work and internship take a lot of his time and energy 
+- Doesn't know many people who have the same music taste 
 #### Frustrations
-Sean feels lonely and has no friends to talk about his feelings with. 
+- Sean feels lonely and has no friends to relate to 
+- He often feels as if he's missing out
 #### Solution
-Sean befriends someone who has similar music taste. 
+- Sean befriends people who have similar music taste 
+- He has someone who he can relate to 
 #### Taking Action
-Sean adds someone who also couldn’t make it to the concert. 
+- Sean goes to the local Forum 
+- He expresses his feelings and people related to him 
 
 ## Persona 1: Jennie Chen 
 ![IMG_7706](https://user-images.githubusercontent.com/62866389/81170526-b334ed00-8f4f-11ea-8e05-fbb75a0b4f2c.jpg)
@@ -66,7 +73,7 @@ Sean adds someone who also couldn’t make it to the concert.
 - Location: Los Angeles, California
 - Education: Bachelor's Degree in Psychology 
 - Occupation: Assistant Therapist 
-- Personality: Caring, Expressive, Calm, Sensitive 
+- Personality: Considerate, Calm, Collected
 ### Motivations and Needs
 - Enjoys listening to music that fits her mood 
 - Wants to make playlists and discover new music 
