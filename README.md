@@ -9,13 +9,13 @@
 
 ## Personas 
 ## Persona 1: Sean Kim 
-![F920DB1B-1431-4A94-881E-DF9718DB25CA_1_201_a](https://user-images.githubusercontent.com/62866389/81170240-2e49d380-8f4f-11ea-8b3b-841bfd8f4ae9.jpeg)
+![AB493F93-0617-4D42-97FE-6473532CE7A2_1_105_c](https://user-images.githubusercontent.com/62866389/81207877-1ee47d80-8f83-11ea-9acb-4b62182db9ea.jpeg)
 ### Demographic
 - Age: 21
 - Location: San Francisco, California
 - Education: 4th Year Business Marketing Major 
 - Occupation: Server at a restaurant, Business Development intern at a startup 
-- Personality: Ambitious, Busy, Social, Leadership skills 
+- Personality: Ambitious, Busy, Friendly  
 ### Motivations and Needs
 - Find more music to inspire him to continue to work hard 
 - Keep up to date with new music and releases 
