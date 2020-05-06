@@ -1,6 +1,6 @@
 # Personas and Scenarios 
 ## Introduction 
- The purpose of UX Storytelling is so that we can understand how different users operate, especially our target users, so as UI/UX designers and researchers, we can build and create interfaces, systems, and products that cater to their liking. It is so that we know we are doing our best to make people's lives easier, more efficient, and effective. UX Storytelling helps us brainstorm, plan, and come up with better ideas as we begin to understand our users better. 
+ The purpose of UX Storytelling is so that we can understand how different users operate, especially our target users, so as UI/UX designers and researchers, we can build and create interfaces, systems, and products that cater to their feelings and expectations. It's important in helping our process to do our best to make people's lives easier, more efficient, and effective. UX Storytelling helps us brainstorm, plan, and come up with better ideas as we begin to understand our users more clearly and on a personal level. We are able to predict user's responses more accurately. 
  
 ## Features 
 - Chat box: allows you to talk to people that you added on the app, shows you who is online, and shows your old conversations, or allows you to create new ones 
