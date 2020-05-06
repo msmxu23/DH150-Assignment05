@@ -52,4 +52,55 @@ Sean befriends someone who has similar music taste.
 #### Taking Action
 Sean adds someone who also couldn’t make it to the concert. 
 
+## Persona 1: Jennie Chen 
+![IMG_7706](https://user-images.githubusercontent.com/62866389/81170526-b334ed00-8f4f-11ea-8e05-fbb75a0b4f2c.jpg)
+
+### Demographic
+- Age: 24
+- Location: Los Angeles, California
+- Education: Bachelor's Degree in Psychology 
+- Occupation: Assistant Therapist 
+- Personality: Caring, Expressive, Social Butterfly 
+### Motivations and Needs
+- Enjoys listening to music that fits her mood 
+- Wants to make playlists and discover new music 
+### Pain Points and Challenges
+- Hard to find new music that she likes 
+- Feels judged by her music 
+### Empathy Map
+#### Says:
+- "How are you feeling today?" 
+- "This song makes me feel some type of way." 
+- "I want them to release their new songs already." 
+
+#### Thinks:
+- Maybe I need to take a break and listen to some music. 
+- I want someone who understands me and my music taste. 
+- Music can be a way to bond with someone. 
+#### Does:
+- Goes on Youtube to see what's new 
+- Checks out songs that her friends on Instagram post about 
+- Always has airpods in her ears 
+#### Feels:
+- Confident 
+- Vibrant 
+- Grateful 
+#### Goals:
+- To share beautiful music with her friends 
+- To show off her music taste 
+
+## Scenario 1: Using the Chat box 
+Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems and she enjoys being that person people can feel comfortable talking to and sharing these personal thoughts with. But when she gets overwhelmed by work, music usually makes her feel better. She wished that music could do for others what it does for her. During her lunch break, she usually puts on her airpods to listen to music. The same way people talk to her about her feelings, she clicks, "Post" a song about how she's feeling. A few of her friends like it. Some strangers commented below too, saying "Love this song!" Jennie taps on these people's profile names to see what music they like, post and repost. She feels good that she is able to relate to others. 
+
+## Sean's Journey 
+#### Challenges to reaching their goal
+Didn't know how to reach to others through music. 
+#### Frustrations
+She's good at listening to other people talk but don't really feel comfortable expressing her emotions. Music is the way. 
+#### Solution
+The app allows her to post songs that fit her mood for the day. Other music listeners can hear her thoughts through these songs. 
+#### Taking Action
+Jennie found an outlet to share her feelings without saying anything. 
+
+
 
