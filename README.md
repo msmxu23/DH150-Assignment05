@@ -1,4 +1,8 @@
 # Personas and Scenarios 
+## Features 
+Chat box - allows you to talk to people that you added on the app, shows you who is online, and shows your old conversations, or allows you to create new ones 
+The Latest - shows the latest news from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
+Forum - Allows you to create topics, comment on each other's replies, like comments, repost, or post opinions related to music 
 
 ## Persona 1: Sean Kim 
 ![F920DB1B-1431-4A94-881E-DF9718DB25CA_1_201_a](https://user-images.githubusercontent.com/62866389/81170240-2e49d380-8f4f-11ea-8b3b-841bfd8f4ae9.jpeg)
