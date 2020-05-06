@@ -109,7 +109,7 @@ The app allows her to post songs that fit her mood for the day. Other music list
 Jennie found an outlet to share her feelings without saying anything. 
 
 ## Persona 1: Anna Nguyen 
-![IMG_7712](https://user-images.githubusercontent.com/62866389/81172110-79191a80-8f52-11ea-8c01-aa79f40f6ad8.JPG)
+![84FBF063-138B-484E-85DE-EDC38FCDADB0](https://user-images.githubusercontent.com/62866389/81208253-9dd9b600-8f83-11ea-83f4-529fa8d6f087.jpg)
 ### Demographic
 - Age: 19
 - Location: Orange County, California
