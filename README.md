@@ -1,6 +1,8 @@
 # Personas and Scenarios 
 
 ## Persona 1: Sean Kim 
+![2A3912A7-175A-4D56-9C2D-6490EEECCEC6](https://user-images.githubusercontent.com/62866389/81169965-9fd55200-8f4e-11ea-866a-d14d68c6e08a.jpg)
+
 ### Demographic
 - Age: 21
 - Location: San Francisco, California
