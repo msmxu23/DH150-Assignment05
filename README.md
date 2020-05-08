@@ -79,8 +79,8 @@ After Sean goes back home, he showers and hops on his bed. He knew the perfect a
 - Wants to make different playlists suitable for different times 
 - To make friends who have the same music taste and want to share thoughts with her 
 ### Pain Points and Challenges
-- Feels shy and uncomfortable when it comes to reaching out to others 
-- Can overshare her feelings  
+- Feels uncomfortable when it comes to reaching out to others with her problems 
+- Can overshare her feelings if given the chance 
 
 ## Empathy Map
 #### Says:
@@ -97,27 +97,24 @@ After Sean goes back home, he showers and hops on his bed. He knew the perfect a
 - Texts her friends "How are you" 
 #### Feels:
 - Grateful 
-- Suffocated 
-- Overwhelmed
+- Lonely  
 
 #### Goals:
 - To find the right support group for herself 
 - To listen to music that relates to her 
 
 ## Scenario 1: Using the Mood Board 
-Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems, and sometimes this can be overwhelming because she doesn't really have anyone to go to. Music is something that helps her relax so she listens to music during her breaks and whenever she can. She enjoys being that person people can feel comfortable talking to and sharing personal thoughts with but she wish she could also connect with someone and lean on that person as well.
-
-She wishes that she could connect with people through music since that's her way of feeling better after a long day. Her friend recommends this new app that allows you to listen to different types of music through the type of mood you're looking for. She downloads the app and creates an account. She then proceeds to the Mood icon on the left bottom corner. She taps "Uplifting" and is sent to a page where other people have posted their personal playlists for this certain genre. 
+Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems, and sometimes this can be overwhelming because she doesn't really have anyone to go to. Music is something that helps her relax so she listens to music during her breaks and whenever she can. She enjoys being that person people can feel comfortable talking to and sharing personal thoughts with but she wishes she could also connect with someone and lean on that person as well. She enojoys sharing music she likes with her friends since that's her way of feeling better after a long day. Her friend recommends this new app that allows you to listen to different types of music through the type of mood you're looking for. She downloads the app and creates an account. She then proceeds to the Mood icon on the left bottom corner. It displays a list of all kinds of moods and she taps "Uplifting" and is sent to a page where other users have posted their personal playlists for this certain genre. Now she has people to talk to or add if she enjoys their music taste. 
 
 ## Jennie's Journey 
 #### Challenges to reaching their goal
-- Didn't feel comfortable being a dependent person
+- Tired and stressed
 #### Frustrations
 - She's good at listening to other people talk but doesn't feel as comfortable expressing her emotions 
 #### Solution
 - The app allows her to find people who Other music listeners can hear her thoughts through these songs 
 #### Taking Action
-- Jennie found an outlet to share her feelings without saying anything 
+- Jennie finds a way to connect with others through music 
 
 ## Persona 1: Anna Nguyen 
 ![84FBF063-138B-484E-85DE-EDC38FCDADB0](https://user-images.githubusercontent.com/62866389/81208253-9dd9b600-8f83-11ea-83f4-529fa8d6f087.jpg)
@@ -129,7 +126,7 @@ She wishes that she could connect with people through music since that's her way
 - Personality: Extroverted, Social Butterfly, Optimistic 
 ### Motivations and Needs
 - Wants to go to all the music concerts and festivals she can  
-- Likes to know updates and share with friends 
+- Likes to know updates on anything related to music and share with friends 
 ### Pain Points and Challenges
 - Has been to many events and want to find more 
 - Want to find more and new music she likes 
@@ -149,7 +146,6 @@ She wishes that she could connect with people through music since that's her way
 - Buys a bulk of tickets to encourage her friends to go with her. 
 #### Feels:
 - Unsatisfied 
-- Left out 
 - Impatient 
 #### Goals:
 - To be notified immediately if an artist she likes announces tour dates or music releases. 
