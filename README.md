@@ -5,7 +5,7 @@ The purpose of UX Storytelling is so that we can understand how different users 
 ## Features 
 - Forum/Chat box: allows you to create topics, comment on each other's posts, like comments, repost, or share opinions related to music
 - Mood Board: gives you the option to choose a certain atmosphere, whether you're feeling upbeat, soultry, in the mood for study music 
-- The Latest: shows the latest news from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
+- The Latest: notifies you on the latest from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
 
 ## Personas 
 ## Persona 1: Sean Kim 
@@ -156,13 +156,13 @@ Jennie loves her job but sometimes it gets pretty stressful. People come to her 
 
 ## Anna's Journey 
 #### Challenges to reaching their goal
-- Anna wastes too much time trying to keep up with all the artists, releases, and events. 
+- Anna wastes too much time trying to keep up with all the artists, releases, and events by going to different sites  
 #### Frustrations
-- Anna doesn't have the time to go to every page to look up. She's upset when she misses out on something. 
+- Anna is upset when she misses out on something 
 #### Solution
-- The app notifies her of anything revolving around the artists she follows. 
+- The app notifies her of anything revolving around the artists she likes 
 #### Taking Action
-- Anna can easily find out the next hot events to attend in one app. 
+- Anna can easily find out the next hot events to attend in one app
 
 
 
