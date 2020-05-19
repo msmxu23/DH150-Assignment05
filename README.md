@@ -4,7 +4,7 @@ The purpose of UX Storytelling is so that we can understand how different users 
  
 ## Features 
 - Forum/Chat box: allows you to create topics, comment on each other's posts, like comments, repost, or share opinions related to music
-- Mood Board: gives you the option to choose a certain atmosphere, whether you're feeling upbeat, soultry, in the mood for study music 
+- Connect: suggests other users as potential friends, will show you mutual friends, mutual taste in music, etc
 - The Latest: notifies you on the latest from artists you like, whether it is their tours, shows, meet & greet, released albums, or songs 
 
 ## Personas 
@@ -103,16 +103,15 @@ After Sean goes back home, he showers and hops on his bed. He knew the perfect a
 - To find the right support group for herself 
 - To listen to music that relates to her 
 
-## Scenario 1: Using the Mood Board 
-Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems, and sometimes this can be overwhelming because she doesn't really have anyone to go to. Music is something that helps her relax so she listens to music during her breaks and whenever she can. She enjoys being that person people can feel comfortable talking to and sharing personal thoughts with but she wishes she could also connect with someone and lean on that person as well. She enojoys sharing music she likes with her friends since that's her way of feeling better after a long day. Her friend recommends this new app that allows you to listen to different types of music through the type of mood you're looking for. She downloads the app and creates an account. She then proceeds to the Mood icon on the left bottom corner. It displays a list of all kinds of moods and she taps "Uplifting" and is sent to a page where other users have posted their personal playlists for this certain genre. Now she has people to talk to or add if she enjoys their music taste. 
-
+## Scenario 1: Using the Connect page 
+Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems, and sometimes this can be overwhelming because she doesn't really have anyone to go to. Music is something that helps her relax so she listens to music during her breaks and whenever she can. She enjoys being that person people can feel comfortable talking to and sharing feelings with but she wishes she could also connect with people and lean on others as well. She enojoys sharing music and wants to connect with people who have similar taste in music, so they could possibly go to future events together. Her friend recommended this new app that allows you to add people who follow similar artists as you or has mutual friends. She downloads the app and creates an account. She taps on the "Connect" icon, which is second from the left bottom corner. The first section shows her, "People who follow similar artists as you..." Second section shows, "People you may know around your location..." Each section lists profiles of other users, showing their pictures, name, mutuals, and the button "Connect." Jennie clicks on a profile of a girl named Megan. She taps "View full profile." They have 10 similar artist follows as shown at the top "10 mutual connections." She connects with Megan and sends her a message! 
 ## Jennie's Journey 
 #### Challenges to reaching their goal
 - Tired and stressed
 #### Frustrations
-- She's good at listening to other people talk but doesn't feel as comfortable expressing her emotions 
+- She's good at listening to other people talk but doesn't have many friends she feels connected to 
 #### Solution
-- The app allows her to find people who Other music listeners can hear her thoughts through these songs 
+- The app allows her to find other music listeners who can relate to her through music 
 #### Taking Action
 - Jennie finds a way to connect with others through music 
 
