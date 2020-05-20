@@ -107,9 +107,9 @@ After Sean goes back home, he showers and hops on his bed. He knew the perfect a
 Jennie loves her job but sometimes it gets pretty stressful. People come to her to relieve their stress, talk about their problems, and sometimes this can be overwhelming because she doesn't really have anyone to go to. Music is something that helps her relax so she listens to music during her breaks and whenever she can. She enjoys being that person people can feel comfortable talking to and sharing feelings with but she wishes she could also connect with people and lean on others as well. She enojoys sharing music and wants to connect with people who have similar taste in music, so they could possibly go to future events together. Her friend recommended this new app that allows you to add people who follow similar artists as you or has mutual friends. She downloads the app and creates an account. She taps on the "Connect" icon, which is second from the left bottom corner. The first section shows her, "People who follow similar artists as you..." Second section shows, "People you may know around your location..." Each section lists profiles of other users, showing their pictures, name, mutuals, and the button "Connect." Jennie clicks on a profile of a girl named Sandra, who has some mutuals as her. She connects with Sandra and sends her a message! 
 ## Jennie's Journey 
 #### Challenges to reaching their goal
-- Tired and stressed
+- Tired and stressed, don't have energy to go out 
 #### Frustrations
-- She's good at listening to other people talk but doesn't have many friends she feels connected to 
+- She's good at listening to other people talk but doesn't have friends she feels relatable to 
 #### Solution
 - The app allows her to find other music listeners who can relate to her through music 
 #### Taking Action
